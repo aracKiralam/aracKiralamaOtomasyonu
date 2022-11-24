@@ -16,5 +16,15 @@ namespace Araç_Kiralama_Otomasyonu
         {
             InitializeComponent();
         }
+
+        private void main_Load(object sender, EventArgs e)
+        {
+            
+        }
+
+        private void main_FormClosing(object sender, FormClosingEventArgs e)
+        {
+            Application.Exit();
+        }
     }
 }

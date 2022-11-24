@@ -29,13 +29,19 @@ namespace Araç_Kiralama_Otomasyonu
 
             if (ad == "admin" && sifre == "admin")
             {
-                main a = new main()
+                main a = new main();
                 a.Show();
+                Hide();
             }
             else
             {
                 MessageBox.Show("Kullanıcı Adı veya Şifre yanlış");
             }
+        }
+
+        private void groupBox1_Enter(object sender, EventArgs e)
+        {
+
         }
     }
 }

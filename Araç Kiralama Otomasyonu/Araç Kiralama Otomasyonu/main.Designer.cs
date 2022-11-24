@@ -48,6 +48,8 @@
             this.Controls.Add(this.label1);
             this.Name = "main";
             this.Text = "main";
+            this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.main_FormClosing);
+            this.Load += new System.EventHandler(this.main_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 
