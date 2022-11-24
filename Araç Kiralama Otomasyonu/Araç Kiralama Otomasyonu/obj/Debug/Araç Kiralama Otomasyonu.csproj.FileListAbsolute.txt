@@ -1,0 +1,12 @@
+C:\Users\90535\source\repos\aracKiralamaOtomasyonu\Araç Kiralama Otomasyonu\Araç Kiralama Otomasyonu\bin\Debug\Araç Kiralama Otomasyonu.exe.config
+C:\Users\90535\source\repos\aracKiralamaOtomasyonu\Araç Kiralama Otomasyonu\Araç Kiralama Otomasyonu\bin\Debug\Araç Kiralama Otomasyonu.exe
+C:\Users\90535\source\repos\aracKiralamaOtomasyonu\Araç Kiralama Otomasyonu\Araç Kiralama Otomasyonu\bin\Debug\Araç Kiralama Otomasyonu.pdb
+C:\Users\90535\source\repos\aracKiralamaOtomasyonu\Araç Kiralama Otomasyonu\Araç Kiralama Otomasyonu\obj\Debug\Araç Kiralama Otomasyonu.csproj.AssemblyReference.cache
+C:\Users\90535\source\repos\aracKiralamaOtomasyonu\Araç Kiralama Otomasyonu\Araç Kiralama Otomasyonu\obj\Debug\Araç Kiralama Otomasyonu.csproj.SuggestedBindingRedirects.cache
+C:\Users\90535\source\repos\aracKiralamaOtomasyonu\Araç Kiralama Otomasyonu\Araç Kiralama Otomasyonu\obj\Debug\Araç_Kiralama_Otomasyonu.Properties.Resources.resources
+C:\Users\90535\source\repos\aracKiralamaOtomasyonu\Araç Kiralama Otomasyonu\Araç Kiralama Otomasyonu\obj\Debug\Araç Kiralama Otomasyonu.csproj.GenerateResource.cache
+C:\Users\90535\source\repos\aracKiralamaOtomasyonu\Araç Kiralama Otomasyonu\Araç Kiralama Otomasyonu\obj\Debug\Araç Kiralama Otomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\90535\source\repos\aracKiralamaOtomasyonu\Araç Kiralama Otomasyonu\Araç Kiralama Otomasyonu\obj\Debug\Araç Kiralama Otomasyonu.exe
+C:\Users\90535\source\repos\aracKiralamaOtomasyonu\Araç Kiralama Otomasyonu\Araç Kiralama Otomasyonu\obj\Debug\Araç Kiralama Otomasyonu.pdb
+C:\Users\90535\source\repos\aracKiralamaOtomasyonu\Araç Kiralama Otomasyonu\Araç Kiralama Otomasyonu\obj\Debug\Araç_Kiralama_Otomasyonu.Form1.resources
+C:\Users\90535\source\repos\aracKiralamaOtomasyonu\Araç Kiralama Otomasyonu\Araç Kiralama Otomasyonu\obj\Debug\Araç_Kiralama_Otomasyonu.main.resources
