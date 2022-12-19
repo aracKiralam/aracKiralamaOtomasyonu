@@ -26,5 +26,29 @@ namespace Araç_Kiralama_Otomasyonu
         {
             Application.Exit();
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            araclar araclar = new araclar();
+            araclar.Show();
+            this.Hide();
+        }
+
+        private void button7_Click(object sender, EventArgs e)
+        {
+            Application.Exit();
+        }
+
+        private void button1_Click_1(object sender, EventArgs e)
+        {
+            müsteriEkle ekle = new müsteriEkle();
+            ekle.ShowDialog();
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            müsteriListele listele = new müsteriListele();
+            listele.ShowDialog();
+        }
     }
 }

@@ -10,3 +10,6 @@ C:\Users\90535\source\repos\aracKiralamaOtomasyonu\Araç Kiralama Otomasyonu\Ara
 C:\Users\90535\source\repos\aracKiralamaOtomasyonu\Araç Kiralama Otomasyonu\Araç Kiralama Otomasyonu\obj\Debug\Araç Kiralama Otomasyonu.pdb
 C:\Users\90535\source\repos\aracKiralamaOtomasyonu\Araç Kiralama Otomasyonu\Araç Kiralama Otomasyonu\obj\Debug\Araç_Kiralama_Otomasyonu.Form1.resources
 C:\Users\90535\source\repos\aracKiralamaOtomasyonu\Araç Kiralama Otomasyonu\Araç Kiralama Otomasyonu\obj\Debug\Araç_Kiralama_Otomasyonu.main.resources
+C:\Users\90535\source\repos\aracKiralamaOtomasyonu\Araç Kiralama Otomasyonu\Araç Kiralama Otomasyonu\obj\Debug\Araç_Kiralama_Otomasyonu.araclar.resources
+C:\Users\90535\source\repos\aracKiralamaOtomasyonu\Araç Kiralama Otomasyonu\Araç Kiralama Otomasyonu\obj\Debug\Araç_Kiralama_Otomasyonu.müsteriEkle.resources
+C:\Users\90535\source\repos\aracKiralamaOtomasyonu\Araç Kiralama Otomasyonu\Araç Kiralama Otomasyonu\obj\Debug\Araç_Kiralama_Otomasyonu.müsteriListele.resources
